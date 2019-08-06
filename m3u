@@ -22,6 +22,9 @@ rtmp://82.212.74.2:1935/live/7207
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png"group-title="القنوات اليمنيه",Yemen SD
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah
+https://live-api.cloud.vimeo.com/sessions/f33a9b78-2d0d-4d2b-8bbf-433b75e411b0/playlist/hls.m3u8?cdn=akamai&~id=player&~exp=1565126091&~sig=KxPY7GXYqq4PxQSWLJSYbh1aSmvyW_lDC0UX-2K8Wb8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
 
@@ -270,7 +273,7 @@ http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://www.lifecell.com.tr/images/icerik/tv/kanallar/quran.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="القنوات الاسلاميه",Al Sunna (Medina)
+#EXTINF:-1 tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/alsunnah-logo.png" group-title="القنوات الاسلاميه",Al Sunna (Medina)
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="قنوات رياضيه", SA-24 Sports
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
