@@ -182,7 +182,7 @@ http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="قنوات عربيه",Télé Liban
 http://213.162.202.9:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdnar.almayadeen.net/cdn/website/images/web-logo.png" group-title="الاخبار",Al Mayadeen
+#EXTINF:-1 tvg-logo="https://www.arab24.com/portal/media/k2/items/cache/3bd383cdf9446912a35458166e99234d_XL.jpg" group-title="الاخبار",Al Mayadeen
 http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="قنوات عربيه",Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
@@ -211,7 +211,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
 http://109.236.92.216:9090/Azhari/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ySPt82O4uP0/U2YqJmty5QI/AAAAAAAABJg/m91h5epESfE/s1600/Cairo-Zaman.png" group-title="قنوات عربيه",  Cairo Cinema
 http://109.236.92.216:9090/Cairo_Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/8035_logo_cairo_drama.png" group-title="قنوات عربيه",  Cairo Drama
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-k5O3N9YYPJU/VU4QbSAaYDI/AAAAAAAAPcM/dBDr4b1HLVE/w1200-h630-p-k-no-nu/cairo_drama.png" group-title="قنوات عربيه",  Cairo Drama
 http://109.236.92.216:9090/Cairo_Drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBC.png" group-title="قنوات عربيه", CBC 
 http://95.170.215.109/hls/CBC-Backup-M.m3u8
@@ -268,25 +268,25 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://paltoday.tv/style/assets/images/logo.png" group-title="الاخبار", Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
+#EXTINF:-1 tvg-logo="https://www.lifecell.com.tr/images/icerik/tv/kanallar/quran.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="القنوات الاسلاميه",Al Sunna (Medina)
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="القنوات الاسلاميه",Al Sunna (Medina)
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="قنوات رياضيه", SA-24 Sports
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/07/sbcfut1.png" group-title="قنوات عربيه",SBC
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79TgtgnD5S9rbBcU4GwmtSRGe0J0DXt8riUYQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="قنوات عربيه",SBC
 http://109.236.92.216:9090/SBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="الاخبار", Alikhbaria TV
+#EXTINF:-1 tvg-logo="http://sourian.news/uploads/posts/2019-02/1550764383_snews_logo.png" group-title="الاخبار", Alikhbaria TV
 http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="قنوات عربيه", Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/sedu_logo.png" group-title="قنوات عربيه", Syrian Education
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlx5fUeadzJed3fGE3tMyhKFfpPIetusKTE5ePC4LbN6lThwWR" group-title="قنوات عربيه", Syrian Education
 http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="قنوات عربيه", Syrian Satellite
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sy-syria-tv.jpg" group-title="قنوات عربيه", Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="قنوات عربيه", Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="قنوات عربيه",Nour Elsham TV
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1542145656.png" group-title="قنوات عربيه",Nour Elsham TV
 http://82.137.248.16:1935/Nour/stream20112018/chunklist_w1617542602.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="قنوات عربيه", Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
@@ -294,7 +294,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="القنوات الاسلاميه",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
-#EXTINF:-1 tvg-logo="http://www.ajmantv.com/img/ajmantv_logo.png" group-title="قنوات عربيه",Ajman
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ac440037533605.5743cc0a85a85.jpg" group-title="قنوات عربيه",Ajman
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-logo="https://b4uplus.com/images/no-image.png" group-title="قنوات الافلام",B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
@@ -310,9 +310,9 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png" group-title="قنوات عربيه",MBC Drama
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/samadubai.ae.png" group-title="قنوات عربيه",Sama Dubai
+#EXTINF:-1 tvg-logo="http://admin.mangomolo.com/analytics/uploads/71-org/icons/live/Sama-Icon.png" group-title="قنوات عربيه",Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Sharjahtvajyal.png" group-title="قنوات عربيه",Sharjah TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-sharjah-tv.jpg" group-title="قنوات عربيه",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="قنوات عربيه",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
