@@ -19,11 +19,15 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190256548499.png"group-title="القنوات اليمنيه",Alerth TV
 rtmp://82.212.74.2:1935/live/7207
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png"group-title="القنوات اليمنيه",Yemen SD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/666004113113616384/6qfLRcm8_400x400.jpg"group-title="القنوات اليمنيه",Yemen sanaa
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah
-https://live-api.cloud.vimeo.com/sessions/f33a9b78-2d0d-4d2b-8bbf-433b75e411b0/playlist/hls.m3u8?cdn=akamai&~id=player&~exp=1565126091&~sig=KxPY7GXYqq4PxQSWLJSYbh1aSmvyW_lDC0UX-2K8Wb8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png"group-title="القنوات اليمنيه",Yemen saudi
+http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/3276.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
+http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5791
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
@@ -37,14 +41,17 @@ http://iptvpro.premium-itv.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/22797
 #EXTINF:-1 tvg-logo="https://tvmany.com/logos/im80240"group-title="القنوات اليمنيه",Aden saudi
 rtmp://82.212.74.3:1935/live/7410
 
+#EXTINF:-1 tvg-logo="https://www.belqees.tv/images/logo-footer.png"group-title="القنوات اليمنيه",BELQEES HD
+http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5659
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
 rtmp://82.212.74.98:1935/live/7626
 
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen Shabab
 http://stream.starmenacdn.com:8080/hls/yemenshabab.m3u8?v=1413519318
 
-#EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen shabab Backup
-http://vip.one-iptv.com:25443/brYyjD75Vm/c8LLYNs8jN/15784
+#EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen shabab HD
+http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5808
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600209197024743424/XeyW1K05_400x400.jpg"group-title="القنوات اليمنيه",AL-SHAREYYAH
 http://streamer12.elementssys.com:8080/SAUDI-Channels/AL-SHAREYYAH/index.m3u8?v=1413519318
