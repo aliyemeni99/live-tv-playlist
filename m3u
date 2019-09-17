@@ -131,6 +131,10 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.dreamboxgate.net/forum/imgcache/2014/491903_dreambox-sat.com.jpg"group-title="قنوات الافلام",Mbc 4 HD  
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://staticmbc-a.akamaihd.net/image/upload/v1539087458/2018/10/09/wt6u3vq3367rfqbci8sc.jpg"group-title="قنوات الافلام",MBC-ACTION 
+http://bath-talfaza.stackstaging.com/hls/arabic-live/mbc-action.php.m3u8?id=MBC-ACTION
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf0duDD9gcJyWl4COtZ2gRRFM6SDMasKOmD3s6a6zrcVd1z3u"group-title="قنوات الافلام",Mbc Max HD  
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 
