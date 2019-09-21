@@ -65,6 +65,10 @@ rtmp://82.212.74.3:1935/live/7412
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a/AGF-l7_F7KNy5080WtvRJMNCOJk9CZWpzV5Ri3ZU6Q=s900-c-k-c0xffffffff-no-rj-mo"group-title="الاخبار" ,Aljazeera 
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a/AGF-l7_F7KNy5080WtvRJMNCOJk9CZWpzV5Ri3ZU6Q=s900-c-k-c0xffffffff-no-rj-mo"group-title="الاخبار" ,Aljazeera mubashir
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png"group-title="الاخبار",Aljazeera english
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
