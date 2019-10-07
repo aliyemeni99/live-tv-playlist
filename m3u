@@ -173,7 +173,7 @@ http://185.246.209.109:8080/SYFY/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jrtv.gov.jo/templates/jrtv_home/images/logomain.png" group-title="قنوات عربيه",Jordan TV
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
-#EXTINF:0 tvg-logo="http://i5.satexpat.com/cha/jo/jordanSport-95x24.gif" group-title="رياضيه قنوات",Jordan Sports
+#EXTINF:0 tvg-logo="http://i5.satexpat.com/cha/jo/jordanSport-95x24.gif" group-title="قنوات رياضيه",Jordan Sports
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.roya.tv/img/royatv/royaTvLogo.png" group-title="قنوات عربيه",Ro'ya TV
 https://roya-live.ercdn.net/roya/roya.m3u8
@@ -361,6 +361,10 @@ http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 #EXTINF:-1tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="قنوات تعليميه", Aljazeera Documentry
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="قنوات رياضيه",BT Sport 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="قنوات رياضيه",Sky Sports Main Event
+https://sportbar.biz/lba/123/g2/maineventss.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="قنوات رياضيه", beIN Sports 1 العَرَبِيَّة‎
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="قنوات رياضيه", beIN Sports 2 العَرَبِيَّة‎
