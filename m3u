@@ -27,7 +27,7 @@ http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/3276.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
-http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5791
+http://185.236.229.64:9981/stream/channelid/414412479
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
@@ -36,7 +36,7 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1122466245260075008/ARjnyTj7_400x400.png"group-title="القنوات اليمنيه",yemen today 
-http://iptvpro.premium-itv.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/22797
+http://185.236.229.64:9981/stream/channelid/1099278963
 
 #EXTINF:-1 tvg-logo="https://tvmany.com/logos/im80240"group-title="القنوات اليمنيه",Aden saudi
 rtmp://82.212.74.3:1935/live/7410
@@ -48,7 +48,7 @@ http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5659
 rtmp://82.212.74.98:1935/live/7626
 
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen Shabab
-http://stream.starmenacdn.com:8080/hls/yemenshabab.m3u8?v=1413519318
+http://185.236.229.64:9981/stream/channelid/1765110551
 
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen shabab HD
 http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5808
@@ -57,7 +57,8 @@ http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5808
 http://streamer12.elementssys.com:8080/SAUDI-Channels/AL-SHAREYYAH/index.m3u8?v=1413519318
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79jRpGaIoGRMFA68Ee4xVzGBDxY5KtezVs69A=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",samaa yemen
-http://213.162.202.9:8000/play/a03e/index.m3u8
+http://213.162.202.9:8000/playhttp://185.236.229.64:9981/stream/channelid/1603544175
+/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lomKmt23ZZgSpApHin-4ywKZNBac8o6AMEFq8Ho7ujGs4IpbS6bxM694E-1mGgKWRQU=w300"group-title="القنوات اليمنيه",Al Ghad Al Mushreq
 rtmp://82.212.74.3:1935/live/7412
