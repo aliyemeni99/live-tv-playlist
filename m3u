@@ -440,35 +440,147 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 http://52.24.12.57/live/test1/index.m3u8
 #EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="قنوات رياضيه",TRT Spor
 https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
-https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="UK", CBBC
-https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="UK", Cbeebies
-https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
-https://live2.hoolatv.com/live/channel4_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
-https://live2.hoolatv.com/live/dave_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
-https://live2.hoolatv.com/live/e4_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="UK",More 4
-https://live2.hoolatv.com/live/more4_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/challenge.png" group-title="UK", Challenge
-https://live2.hoolatv.com/live/challenge_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
-https://live2.hoolatv.com/live/channel5_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK", Quest
-https://live2.hoolatv.com/live/quest_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
-https://live2.hoolatv.com/live/itv_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
-https://live2.hoolatv.com/live/itv2_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK", ITV 3
-https://live2.hoolatv.com/live/itv3_hi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
-https://live2.hoolatv.com/live/itv4_hi/chunks.m3u8
+#EXTINF:-1, group-title="UK",BBC 1 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21851.m3u8
+#EXTINF:-1, group-title="UK",BBC 2 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21852.m3u8
+#EXTINF:-1, group-title="UK",BBC 3 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21853.m3u8
+#EXTINF:-1, group-title="UK",BBC 4 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21854.m3u8
+#EXTINF:-1, group-title="UK",BBC NEWS 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21855.m3u8
+#EXTINF:-1, group-title="UK",CHANNEL 4 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21870.m3u8
+#EXTINF:-1, group-title="UK",CNBC EUROPE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21864.m3u8
+#EXTINF:-1, group-title="UK",CNN INT 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21869.m3u8
+#EXTINF:-1, group-title="UK",DISCOVERY CHANNEL 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21881.m3u8
+#EXTINF:-1, group-title="UK",DISCOVERY HISTORY 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21882.m3u8
+#EXTINF:-1, group-title="UK",DISCOVERY SCI HD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21884.m3u8
+#EXTINF:-1, group-title="UK",DISCOVERY SCIENCE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21883.m3u8
+#EXTINF:-1, group-title="UK",ANIMAL PLANET HD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21880.m3u8
+#EXTINF:-1, group-title="UK",CARTOON NETWORK 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21872.m3u8
+#EXTINF:-1, group-title="UK",BABY TV 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21873.m3u8
+#EXTINF:-1, group-title="UK",DISNEY CHANNEL 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21876.m3u8
+#EXTINF:-1, group-title="UK",DISNEY JUNIOR
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21877.m3u8
+#EXTINF:-1, group-title="UK",DISNEY XD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21878.m3u8
+#EXTINF:-1, group-title="UK",EURO NEWS 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21867.m3u8
+#EXTINF:-1, group-title="UK",iCONCERTS HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21866.m3u8
+#EXTINF:-1, group-title="UK",ITV 1 HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21858.m3u8
+#EXTINF:-1, group-title="UK",ITV 2
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21859.m3u8
+#EXTINF:-1, group-title="UK",ITV 3
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21860.m3u8
+#EXTINF:-1, group-title="UK",ITV 4
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21861.m3u8
+#EXTINF:-1, group-title="UK",ITV BE
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21857.m3u8
+#EXTINF:-1, group-title="UK",ITV ENCORE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21856.m3u8
+#EXTINF:-1, group-title="UK",More4
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21862.m3u8
+#EXTINF:-1, group-title="UK",NAT GEO WILD HD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21879.m3u8
+#EXTINF:-1, group-title="UK",NICK JR 2 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21874.m3u8
+#EXTINF:-1, group-title="UK",REAL LIVES 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21863.m3u8
+#EXTINF:-1, group-title="UK",SKY DISNEY 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21875.m3u8
+#EXTINF:-1, group-title="UK",SKY NEWS HD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21868.m3u8
+#EXTINF:-1, group-title="UK",TV 3
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21871.m3u8
+#EXTINF:-1, group-title="UK",WATCH 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21865.m3u8
+#EXTINF:-1, group-title="UK",AT THE RACES 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21909.m3u8
+#EXTINF:-1, group-title="UK",BRITISH EUROSPORT 1
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21901.m3u8
+#EXTINF:-1, group-title="UK",BRITISH EUROSPORT 2
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21902.m3u8
+#EXTINF:-1, group-title="UK",BT SPORT 1
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21897.m3u8
+#EXTINF:-1, group-title="UK",BT SPORT 2
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21898.m3u8
+#EXTINF:-1, group-title="UK",BT SPORT 3
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21900.m3u8
+#EXTINF:-1, group-title="UK",BT SPORT EUROPE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21899.m3u8
+#EXTINF:-1, group-title="UK",CBS ACTION 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21906.m3u8
+#EXTINF:-1, group-title="UK",CBS DRAMA 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21907.m3u8
+#EXTINF:-1, group-title="UK",CBS REALITY 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21908.m3u8
+#EXTINF:-1, group-title="UK",EIR SPORT 1
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21905.m3u8
+#EXTINF:-1, group-title="UK",BOXNATION
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21896.m3u8
+#EXTINF:-1, group-title="UK",HORROR CHANNEL 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21926.m3u8
+#EXTINF:-1, group-title="UK",PREMIER SPORTS
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21903.m3u8
+#EXTINF:-1, group-title="UK",RACING UK
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21904.m3u8
+#EXTINF:-1, group-title="UK",SKY ACTION 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21918.m3u8
+#EXTINF:-1, group-title="UK",SKY ARTS HD 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21922.m3u8
+#EXTINF:-1, group-title="UK",SKY ATLANTIC 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21921.m3u8
+#EXTINF:-1, group-title="UK",SKY COMEDY 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21920.m3u8
+#EXTINF:-1, group-title="UK",SKY DRAMA 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21917.m3u8
+#EXTINF:-1, group-title="UK",SKY FAMILY 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21916.m3u8
+#EXTINF:-1, group-title="UK",SKY GREATS 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21915.m3u8
+#EXTINF:-1, group-title="UK",SKY ONE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21923.m3u8
+#EXTINF:-1, group-title="UK",SKY PREMIER 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21913.m3u8
+#EXTINF:-1, group-title="UK",SKY SCIFI AND HORROR 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21911.m3u8
+#EXTINF:-1, group-title="UK",SKY SELECT 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21910.m3u8
+#EXTINF:-1, group-title="UK",SKY SHOWCASE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21914.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS ACTION 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21891.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS CRICKET 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21890.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS F1
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21894.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS GOLF
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21892.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS MAIN EVENT 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21889.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS NEWS 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21895.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS PREMIER LEAGUE 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21893.m3u8
+#EXTINF:-1, group-title="UK",SKY THRILLER 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21919.m3u8
+#EXTINF:-1, group-title="UK",SKY TWO HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21924.m3u8
+#EXTINF:-1, group-title="UK",TCM HD
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21925.m3u8
+#EXTINF:-1, group-title="UK",UNIVERSAL CHANNEL 
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21912.m3u8
