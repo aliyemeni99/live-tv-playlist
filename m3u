@@ -28,6 +28,8 @@ http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/3276.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
 http://185.236.229.64:9981/stream/channelid/414412479
+#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",AlSaeedah 
+http://uk4321.com:25461/live/59491/UtPi7g5d/371.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
@@ -36,23 +38,21 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1122466245260075008/ARjnyTj7_400x400.png"group-title="القنوات اليمنيه",yemen today 
-http://185.236.229.64:9981/stream/channelid/1099278963
-
+http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/7030
 #EXTINF:-1 tvg-logo="https://tvmany.com/logos/im80240"group-title="القنوات اليمنيه",Aden saudi
 rtmp://82.212.74.3:1935/live/7410
 
 #EXTINF:-1 tvg-logo="https://www.belqees.tv/images/logo-footer.png"group-title="القنوات اليمنيه",BELQEES HD
-http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5659
+http://uk4321.com:25461/live/59491/UtPi7g5d/571.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
 rtmp://82.212.74.98:1935/live/7626
 
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen Shabab
-http://185.236.229.64:9981/stream/channelid/1765110551
+http://uk4321.com:25461/live/59491/UtPi7g5d/99.m3u8
 
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen shabab HD
-http://ok2.se:8000/MrGhY9Y6nh/30dV9tJgV0/5808
-
+http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/7033
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600209197024743424/XeyW1K05_400x400.jpg"group-title="القنوات اليمنيه",AL-SHAREYYAH
 http://streamer12.elementssys.com:8080/SAUDI-Channels/AL-SHAREYYAH/index.m3u8?v=1413519318
 
@@ -365,21 +365,41 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="قنوات رياضيه",BT Sport 2
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="قنوات رياضيه",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-WjHPoGOS6hpBKPsCehg2bJTFObXCIkPIz9CnMrfjc5rDS2a2&s" group-title="قنوات رياضيه",SKY SPORTS PREMIER LEAGUE
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/1280px-Sky_Sport_2_HD_-_Logo_2015.svg.png" group-title="قنوات رياضيه",Sky Sports 2
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="قنوات رياضيه",Sky Sports 1
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21923.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="قنوات رياضيه", beIN Sports 1 العَرَبِيَّة‎
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22427.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="قنوات رياضيه", beIN Sports 2 العَرَبِيَّة‎
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22428.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="قنوات رياضيه", beIN Sports 3 العَرَبِيَّة‎
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22429.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="قنوات رياضيه", beIN Sports 4 العَرَبِيَّة‎
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22430.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="قنوات رياضيه", beIN Sports 5 العَرَبِيَّة‎
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22431.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="قنوات رياضيه", beIN Sports 6 العَرَبِيَّة‎
-http://94.236.230.110:3333/6
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22432.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="قنوات رياضيه", beIN Sports 7 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22433.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="قنوات رياضيه", beIN Sports 8 العَرَبِيَّة‎
-http://94.236.230.110:3333/8
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22434.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports9.us.png" group-title="قنوات رياضيه", beIN Sports 9 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22435.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports10.us.png" group-title="قنوات رياضيه", beIN Sports 10 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22436.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports11.us.png" group-title="قنوات رياضيه", beIN Sports 11 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22437.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports12.us.png" group-title="قنوات رياضيه", beIN Sports 12 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22438.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports13.us.png" group-title="قنوات رياضيه", beIN Sports 13 العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22439.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports1.us.png" group-title="قنوات رياضيه", beIN Sports news العَرَبِيَّة‎
+http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/22441.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="قنوات رياضيه", beIN Sports 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="قنوات رياضيه",Abu Dhabi Sports 1
