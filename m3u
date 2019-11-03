@@ -440,6 +440,120 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 http://52.24.12.57/live/test1/index.m3u8
 #EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="قنوات رياضيه",TRT Spor
 https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
+
+#EXTINF:-1group-title="beinsport"group-title="beinsport",beINSport 1 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/979.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 1 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6963.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 2 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/994.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 2 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/978.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 2 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6962.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 3 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/993.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 3 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/977.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 3 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6961.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 4 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/992.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 4 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/976.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 4 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6960.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 5 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/991.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 5 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/975.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 5 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6959.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 6 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/990.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 6 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/974.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 6 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6958.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 7 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/989.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 7 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/973.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 7 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6957.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 8 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/988.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 8 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/972.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 8 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6956.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 9 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/987.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 9 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/971.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 9 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6955.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 10 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/986.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 10 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/970.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 10 HD VIP ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6954.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 11 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/985.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 11 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/969.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 12 ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/984.m3u8
+#EXTINF:-1group-title="beinsport",beINSport 12 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/968.m3u8
+#EXTINF:-1group-title="beinsport",beINSport AlKass 1 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/967.m3u8
+#EXTINF:-1group-title="beinsport",beINSport AlKass 2 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/966.m3u8
+#EXTINF:-1group-title="beinsport",beINSport AlKass 3 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/965.m3u8
+#EXTINF:-1group-title="beinsport",beINSport AlKass 4 HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/964.m3u8
+#EXTINF:-1group-title="beinsport",beINSport News HD ARB
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/998.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 1 HD DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12697.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 2 HD DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12696.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 3 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1323.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 4 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1322.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 5 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12695.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 6 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1320.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 7 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1319.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 8 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12694.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport 9 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/8693.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Austria HD DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/3176.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 1 HD DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12700.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 2 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1330.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 3 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12699.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 4 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1328.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 5 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12698.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 6 HD (Live Event) DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1326.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport News DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/24381.m3u8
+#EXTINF:-1group-title="beinsport",Sky Sport News HD DE
+http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1315.m3u8
+
 #EXTINF:-1, group-title="UK",BBC 1 HD
 http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21851.m3u8
 #EXTINF:-1, group-title="UK",BBC 2 HD
