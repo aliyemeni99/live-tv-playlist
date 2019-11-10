@@ -441,118 +441,122 @@ http://52.24.12.57/live/test1/index.m3u8
 #EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="قنوات رياضيه",TRT Spor
 https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
 
-#EXTINF:-1group-title="beinsport"group-title="beinsport",beINSport 1 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/979.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 1 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6963.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 2 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/994.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 2 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/978.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 2 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6962.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 3 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/993.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 3 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/977.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 3 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6961.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 4 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/992.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 4 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/976.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 4 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6960.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 5 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/991.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 5 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/975.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 5 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6959.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 6 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/990.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 6 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/974.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 6 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6958.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 7 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/989.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 7 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/973.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 7 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6957.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 8 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/988.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 8 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/972.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 8 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6956.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 9 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/987.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 9 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/971.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 9 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6955.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 10 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/986.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 10 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/970.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 10 HD VIP ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/6954.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 11 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/985.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 11 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/969.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 12 ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/984.m3u8
-#EXTINF:-1group-title="beinsport",beINSport 12 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/968.m3u8
-#EXTINF:-1group-title="beinsport",beINSport AlKass 1 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/967.m3u8
-#EXTINF:-1group-title="beinsport",beINSport AlKass 2 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/966.m3u8
-#EXTINF:-1group-title="beinsport",beINSport AlKass 3 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/965.m3u8
-#EXTINF:-1group-title="beinsport",beINSport AlKass 4 HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/964.m3u8
-#EXTINF:-1group-title="beinsport",beINSport News HD ARB
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/998.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 1 HD DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12697.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 2 HD DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12696.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1323.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1322.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12695.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1320.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 7 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1319.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 8 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12694.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport 9 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/8693.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Austria HD DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/3176.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 1 HD DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12700.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 2 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1330.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 3 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12699.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 4 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1328.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 5 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/12698.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport Bundesliga 6 HD (Live Event) DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1326.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport News DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/24381.m3u8
-#EXTINF:-1group-title="beinsport",Sky Sport News HD DE
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/1315.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sports 2 SD" tvg-logo="" group-title="sport",sport: BT Sports 2 SD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport Extra 2" tvg-logo="" group-title="sport",sport: BT Sport Extra 2
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport Extra 1" tvg-logo="" group-title="sport",sport: BT Sport Extra 1
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport ESPN" tvg-logo="" group-title="sport",sport: BT Sport ESPN
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport 3 SD" tvg-logo="" group-title="sport",sport: BT Sport 3 SD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport 3 HD" tvg-logo="" group-title="sport",sport: BT Sport 3 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport 2 HD" tvg-logo="" group-title="sport",sport: BT Sport 2 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport 1 HD" tvg-logo="" group-title="sport",sport: BT Sport 1 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: BT Sport 1 backup" tvg-logo="" group-title="sport",sport: BT Sport 1 backup
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56595.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Two" tvg-logo="" group-title="sport",sport: Sky Two
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sports The Open HD" tvg-logo="" group-title="sport",sport: Sky Sports The Open HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="sport",sport: SKY SPORTS PREMIER LEAGUE HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="sport",sport: SKY SPORTS PREMIER LEAGUE
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sports Mix" tvg-logo="" group-title="sport",sport: Sky Sports Mix
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="sport",sport: SKY SPORTS MAIN EVENT HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS MAIN EVENT" tvg-logo="" group-title="sport",sport: SKY SPORTS MAIN EVENT
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS GOLF HD" tvg-logo="" group-title="sport",sport: SKY SPORTS GOLF HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS GOLF" tvg-logo="" group-title="sport",sport: SKY SPORTS GOLF
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS CRICKET HD" tvg-logo="" group-title="sport",sport: SKY SPORTS CRICKET HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS CRICKET" tvg-logo="" group-title="sport",sport: SKY SPORTS CRICKET
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS ACTION HD" tvg-logo="" group-title="sport",sport: SKY SPORTS ACTION HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY SPORTS ACTION" tvg-logo="" group-title="sport",sport: SKY SPORTS ACTION
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sport News" tvg-logo="" group-title="sport",sport: Sky Sport News
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SkySpBoxOff (PPV Events Only)" tvg-logo="" group-title="sport",sport: SkySpBoxOff (PPV Events Only)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Celtic FC TV (Live for Matches )" tvg-logo="" group-title="sport",sport: Celtic FC TV (Live for Matches )
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sport Football HD" tvg-logo="" group-title="sport",sport: Sky Sport Football HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sport F1 HD" tvg-logo="" group-title="sport",sport: Sky Sport F1 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sport Arena HD" tvg-logo="" group-title="sport",sport: Sky Sport Arena HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: Sky Sport 1 SD" tvg-logo="" group-title="sport",sport: Sky Sport 1 SD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY One" tvg-logo="" group-title="sport",sport: SKY One
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY NEWS HD" tvg-logo="" group-title="sport",sport: SKY NEWS HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="sport: SKY NEWS" tvg-logo="" group-title="sport",sport: SKY NEWS
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56449.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="" group-title="sport",AR: beIN Sports 9 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55887.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="" group-title="sport",AR: beIN Sports 8 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55888.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="" group-title="sport",AR: beIN Sports 7 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="" group-title="sport",AR: beIN Sports 6 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="" group-title="sport",AR: beIN Sports 5 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="" group-title="sport",AR: beIN Sports 4 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="" group-title="sport",AR: beIN Sports 3 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="" group-title="sport",AR: beIN Sports 2 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 13 HD" tvg-logo="" group-title="sport",AR: beIN Sports 13 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 12 HD" tvg-logo="" group-title="sport",AR: beIN Sports 12 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 11 HD" tvg-logo="" group-title="sport",AR: beIN Sports 11 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 10 HD" tvg-logo="" group-title="sport",AR: beIN Sports 10 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="" group-title="sport",AR: beIN Sports 1 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN SPorts" tvg-logo="" group-title="sport",AR: beIN SPorts
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport HD" tvg-logo="" group-title="sport",AR: Bein Sport HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN MOVIES 3 HD" tvg-logo="" group-title="sport",AR: BEIN MOVIES 3 HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/56032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN MOVIES 2HD" tvg-logo="" group-title="sport",AR: BEIN MOVIES 2HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN MOVIES 1HD" tvg-logo="" group-title="sport",AR: BEIN MOVIES 1HD
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/55881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 8 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 8 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 7 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 7 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 4 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 4 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 3 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 3 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 2 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 2 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 10 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 10 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR VIP: Bein Sport 1 HD (Backup)" tvg-logo="" group-title="sport",AR VIP: Bein Sport 1 HD (Backup)
+http://xtiptv.xyz:25461/live/TA3Z6anzK1/Xt13q93Bvb/57594.ts
 
 #EXTINF:-1, group-title="UK",BBC 1 HD
 http://bozhd.eu:8000/live/yZh4wDtjdc/UaNMEbQrob/21851.m3u8
