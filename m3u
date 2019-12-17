@@ -29,7 +29,8 @@ http://tv2iptv.com:8000/live/Janel/janel123/8601.m3u8
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
 http://tv2iptv.com:8000/live/Janel/janel123/45792.m3u8
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",AlSaeedah 
-https://skyfire.vimeocdn.com/1576665649-0xdabcbf2b8cd3d1d796c34aa3715427bfe5838700/375060153/video/1563555347,1563555341,1563555335,1563555334/master.m3u8
+http://46.166.142.124:8000/SjepOOmVNs/VwnObFoxg5/5791
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
 
