@@ -663,3 +663,5 @@ http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/19325
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23656
 #EXTINF:-1 tvg-logo="1" group-title="uk",UTV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25099
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="uk",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
