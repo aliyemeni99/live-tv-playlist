@@ -503,6 +503,29 @@ http://prime.fr33.click/live/2573?u=SL4uHtUzhR&s=xtAqZQcDVa
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports11.us.png" group-title="sport", beIN Sports 11 
 http://primeb.fr33.click/live/40?u=SL4uHtUzhR&s=xtAqZQcDVa
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Soprt News" tvg-logo="" group-title="sport",beIN Soprt News
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/960
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD1" tvg-logo="" group-title="sport",beIN SPORTS HD1
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/46
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD2" tvg-logo="" group-title="sport",beIN SPORTS HD2
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/47
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD3" tvg-logo="" group-title="sport",beIN SPORTS HD3
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/48
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD4" tvg-logo="" group-title="sport",beIN SPORTS HD4
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/49
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD5" tvg-logo="" group-title="sport",beIN SPORTS HD5
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/50
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD6" tvg-logo="" group-title="sport",beIN SPORTS HD6
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/51
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD7" tvg-logo="" group-title="sport",beIN SPORTS HD7
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/52
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD8" tvg-logo="" group-title="sport",beIN SPORTS HD8
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/53
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD9" tvg-logo="" group-title="sport",beIN SPORTS HD9
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/54
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD10" tvg-logo="" group-title="sport",beIN SPORTS HD10
+http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/55
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
 https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv1/tracks-v1a1/mono.m3u8
