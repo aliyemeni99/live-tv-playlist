@@ -442,226 +442,137 @@ http://52.24.12.57/live/test1/index.m3u8
 #EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="قنوات رياضيه",TRT Spor
 https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-1-HD
-http://tv2iptv.com:8000/live/Janel/janel123/29.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-2-HD
-http://tv2iptv.com:8000/live/Janel/janel123/30.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-3-HD
-http://tv2iptv.com:8000/live/Janel/janel123/31.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-4-HD
-http://tv2iptv.com:8000/live/Janel/janel123/32.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-5-HD
-http://tv2iptv.com:8000/live/Janel/janel123/33.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-6-HD
-http://tv2iptv.com:8000/live/Janel/janel123/34.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-7-HD
-http://tv2iptv.com:8000/live/Janel/janel123/35.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-8-HD
-http://tv2iptv.com:8000/live/Janel/janel123/36.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-9-HD
-http://tv2iptv.com:8000/live/Janel/janel123/37.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-10-HD
-http://tv2iptv.com:8000/live/Janel/janel123/38.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-11-HD
-http://tv2iptv.com:8000/live/Janel/janel123/1033.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-12-HD
-http://tv2iptv.com:8000/live/Janel/janel123/1034.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-13-HD
-http://tv2iptv.com:8000/live/Janel/janel123/1035.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-14-HD
-http://tv2iptv.com:8000/live/Janel/janel123/1036.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-15-HD
-http://tv2iptv.com:8000/live/Janel/janel123/23529.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-16-HD
-http://tv2iptv.com:8000/live/Janel/janel123/23528.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-NBA-HD
-http://tv2iptv.com:8000/live/Janel/janel123/23526.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-1-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34640.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-2-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34639.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-3-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34638.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-4-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34637.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-5-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34636.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-6-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34635.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-7-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34634.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-8-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34633.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-9-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34632.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein-10-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/34631.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein11-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/47779.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",Bein12-hevc
-http://tv2iptv.com:8000/live/Janel/janel123/47780.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_1
-http://tv2iptv.com:8000/live/Janel/janel123/18761.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_2
-http://tv2iptv.com:8000/live/Janel/janel123/18760.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_3
-http://tv2iptv.com:8000/live/Janel/janel123/18759.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_4
-http://tv2iptv.com:8000/live/Janel/janel123/18758.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_5
-http://tv2iptv.com:8000/live/Janel/janel123/18757.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_6
-http://tv2iptv.com:8000/live/Janel/janel123/18756.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_7
-http://tv2iptv.com:8000/live/Janel/janel123/18755.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_8
-http://tv2iptv.com:8000/live/Janel/janel123/18754.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_9
-http://tv2iptv.com:8000/live/Janel/janel123/18753.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_10
-http://tv2iptv.com:8000/live/Janel/janel123/18752.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_1_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17770.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_2_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17769.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_3_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17768.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_4_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17767.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_5_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17766.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_6_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17765.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_7_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17764.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_8_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17763.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_9_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17762.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_SPORT_10_HD
-http://tv2iptv.com:8000/live/Janel/janel123/17761.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_1_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22780.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_2_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22779.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_3_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22778.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_4_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22777.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_5_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22776.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_6_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22775.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_7_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22774.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_8_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22773.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_9_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22772.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN_10_4K
-http://tv2iptv.com:8000/live/Janel/janel123/22771.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-1-SD
-http://tv2iptv.com:8000/live/Janel/janel123/48.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-2-SD
-http://tv2iptv.com:8000/live/Janel/janel123/47.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-3-SD
-http://tv2iptv.com:8000/live/Janel/janel123/46.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-4-SD
-http://tv2iptv.com:8000/live/Janel/janel123/45.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-5-SD
-http://tv2iptv.com:8000/live/Janel/janel123/44.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-6-SD
-http://tv2iptv.com:8000/live/Janel/janel123/43.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-7-SD
-http://tv2iptv.com:8000/live/Janel/janel123/41.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-8-SD
-http://tv2iptv.com:8000/live/Janel/janel123/40.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-9-SD
-http://tv2iptv.com:8000/live/Janel/janel123/39.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",BEIN-SPORT-10-SD
-http://tv2iptv.com:8000/live/Janel/janel123/42.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 1HD
-http://tv2iptv.com:8000/live/Janel/janel123/25813.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 2HD
-http://tv2iptv.com:8000/live/Janel/janel123/25812.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 3HD
-http://tv2iptv.com:8000/live/Janel/janel123/25811.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 4HD
-http://tv2iptv.com:8000/live/Janel/janel123/25810.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 5HD
-http://tv2iptv.com:8000/live/Janel/janel123/25809.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 6HD
-http://tv2iptv.com:8000/live/Janel/janel123/25808.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 7HD
-http://tv2iptv.com:8000/live/Janel/janel123/25807.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 8HD
-http://tv2iptv.com:8000/live/Janel/janel123/25806.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 9HD
-http://tv2iptv.com:8000/live/Janel/janel123/25805.m3u8
-#EXTINF:-1 tvg-logo="1" group-title="sport",beIN Sports 10HD
-http://tv2iptv.com:8000/live/Janel/janel123/25804.m3u8
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png"group-title="sport",BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png"group-title="sport",BT Sport 1HD +1
+http://sync1.iptv.bingo/live/4572?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
 
-#EXTINF:-1 tvg-logo="1" group-title="uk",alazeera  qatar
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png"group-title="sport",BT Sport 2HD
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png"group-title="sport",BT Sport 2HD +1
+http://sync1.iptv.bingo/live/2536?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png"group-title="sport",BT Sport 3HD
+http://sync1.iptv.bingo/live/2546?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Football +1
+http://sync1.iptv.bingo/live/1591?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Main Event +1
+http://sync1.iptv.bingo/live/1589?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png"group-title="sport",Sky Sports Premier League +1
+http://sync1.iptv.bingo/live/1590?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="sport", beIN Sports 1
+http://prime.fr33.click/live/2572?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="sport", beIN Sports 2 ‎
+http://prime.fr33.click/live/2575?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="sport", beIN Sports 3 ‎
+http://prime.fr33.click/live/2576?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="sport", beIN Sports 4 ‎
+http://prime.fr33.click/live/2577?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="sport", beIN Sports 5 ‎
+http://prime.fr33.click/live/2578?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="sport", beIN Sports 6 ‎
+http://prime.fr33.click/live/2579?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="sport", beIN Sports 7 ‎
+http://prime.fr33.click/live/2580?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="sport", beIN Sports 8 ‎
+http://prime.fr33.click/live/2581?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports9.us.png" group-title="sport", beIN Sports 9 ‎
+http://prime.fr33.click/live/2582?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports10.us.png" group-title="sport", beIN Sports 10 
+http://prime.fr33.click/live/2573?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports11.us.png" group-title="sport", beIN Sports 11 
+http://primeb.fr33.click/live/40?u=SL4uHtUzhR&s=xtAqZQcDVa
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
+https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.UK.png" group-title="UK", ITV 2
+https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.UK.png" group-title="UK", ITV 3
+https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.UK.png" group-title="UK", ITV 4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="1" group-title="UK",alazeera  qatar
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/18841
-#EXTINF:-1 tvg-logo="1" group-title="uk",Arise News TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Arise News TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/22077
-#EXTINF:-1 tvg-logo="1" group-title="uk",BBC CBEEBIES
+#EXTINF:-1 tvg-logo="1" group-title="UK",BBC CBEEBIES
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25095
-#EXTINF:-1 tvg-logo="1" group-title="uk",BBC scotland
+#EXTINF:-1 tvg-logo="1" group-title="UK",BBC scotland
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25096
-#EXTINF:-1 tvg-logo="1" group-title="uk",bloombergh
+#EXTINF:-1 tvg-logo="1" group-title="UK",bloombergh
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23663
-#EXTINF:-1 tvg-logo="1" group-title="uk",CBS NEWS
+#EXTINF:-1 tvg-logo="1" group-title="UK",CBS NEWS
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/7786
-#EXTINF:-1 tvg-logo="1" group-title="uk",CBSN
+#EXTINF:-1 tvg-logo="1" group-title="UK",CBSN
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/18903
-#EXTINF:-1 tvg-logo="1" group-title="uk",DW
+#EXTINF:-1 tvg-logo="1" group-title="UK",DW
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/14231
-#EXTINF:-1 tvg-logo="1" group-title="uk",EWTN UK 
+#EXTINF:-1 tvg-logo="1" group-title="UK",EWTN UK 
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23654
-#EXTINF:-1 tvg-logo="1" group-title="uk",Faith World TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Faith World TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23653
-#EXTINF:-1 tvg-logo="1" group-title="uk",Flow Sports
+#EXTINF:-1 tvg-logo="1" group-title="UK",Flow Sports
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/19299
-#EXTINF:-1 tvg-logo="1" group-title="uk",FRANCE 24
+#EXTINF:-1 tvg-logo="1" group-title="UK",FRANCE 24
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/13599
-#EXTINF:-1 tvg-logo="1" group-title="uk",GOD
+#EXTINF:-1 tvg-logo="1" group-title="UK",GOD
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/16934
-#EXTINF:-1 tvg-logo="1" group-title="uk",HD Fashion
+#EXTINF:-1 tvg-logo="1" group-title="UK",HD Fashion
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/18118
-#EXTINF:-1 tvg-logo="1" group-title="uk",Ideal World TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Ideal World TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/7781
-#EXTINF:-1 tvg-logo="1" group-title="uk",ITV 2
+#EXTINF:-1 tvg-logo="1" group-title="UK",ITV 2
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/13605
-#EXTINF:-1 tvg-logo="1" group-title="uk",ITV 3
+#EXTINF:-1 tvg-logo="1" group-title="UK",ITV 3
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25092
-#EXTINF:-1 tvg-logo="1" group-title="uk",ITV 4
+#EXTINF:-1 tvg-logo="1" group-title="UK",ITV 4
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25093
-#EXTINF:-1 tvg-logo="1" group-title="uk",Keep It Country TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Keep It Country TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23660
-#EXTINF:-1 tvg-logo="1" group-title="uk",Loveworld TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Loveworld TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23205
-#EXTINF:-1 tvg-logo="1" group-title="uk",Lubimoe TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Lubimoe TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23657
-#EXTINF:-1 tvg-logo="1" group-title="uk",pbs america
+#EXTINF:-1 tvg-logo="1" group-title="UK",pbs america
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25094
-#EXTINF:-1 tvg-logo="1" group-title="uk",Peace TV English
+#EXTINF:-1 tvg-logo="1" group-title="UK",Peace TV English
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23647
-#EXTINF:-1 tvg-logo="1" group-title="uk",pop
+#EXTINF:-1 tvg-logo="1" group-title="UK",pop
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23672
-#EXTINF:-1 tvg-logo="1" group-title="uk",Revelation TV
+#EXTINF:-1 tvg-logo="1" group-title="UK",Revelation TV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23658
-#EXTINF:-1 tvg-logo="1" group-title="uk",RT UK
+#EXTINF:-1 tvg-logo="1" group-title="UK",RT UK
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/19338
-#EXTINF:-1 tvg-logo="1" group-title="uk",sony action
+#EXTINF:-1 tvg-logo="1" group-title="UK",sony action
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/27365
-#EXTINF:-1 tvg-logo="1" group-title="uk",STB
+#EXTINF:-1 tvg-logo="1" group-title="UK",STB
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25098
-#EXTINF:-1 tvg-logo="1" group-title="uk",TG4
+#EXTINF:-1 tvg-logo="1" group-title="UK",TG4
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/19325
-#EXTINF:-1 tvg-logo="1" group-title="uk",The Jewellery Channel
+#EXTINF:-1 tvg-logo="1" group-title="UK",The Jewellery Channel
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23656
-#EXTINF:-1 tvg-logo="1" group-title="uk",UTV
+#EXTINF:-1 tvg-logo="1" group-title="UK",UTV
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25099
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="uk",BBC One HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="UK",BBC One HD
+http://a.files.bbci.co.UK/media/live/manifesto/audio_video/simulcast/hls/UK/abr_hdtv/ak/bbc_one_hd.m3u8
