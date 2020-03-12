@@ -4,8 +4,8 @@ https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 
-#EXTINF:-1 tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/Al_Saudiya-1.jpg",KSA HD
-http://199.167.151.237:1935/live/shk35_30.stream/oui9.m3u8
+#EXTINF:-1 tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/Al_Saudiya-1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD,KSA HD
+https://cllive.itworkscdn.net/ksa1live/token=nva=1583996325~dirs=1~hash=05fb8e02dbd3a1bf8e5b5/ksa1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg"group-title="القنوات الاسلاميه",makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
@@ -527,6 +527,19 @@ http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/54
 http://iptv.allkaicerteam.com:8080/alkaicer_uy16jnpsc4/dtepq4j09k/55
 
 
+
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="UK",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png" group-title="UK",BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+
+#EXTINF:-1 tvg-id="BBC Two Wales" tvg-name="BBC Two Wales" tvg-logo="https://s3.postimg.org/87e8w998z/BBC_Two_Wales_logo_svg.png" group-title="UK",BBC Two Wales
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8
+
+#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://s3.postimg.org/hxublo6hv/bbc_news_logo.png" group-title="UK",BBC News HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
 https://streamingserver001.viewtvgroup.com/kapanglivetv-UKsat-itv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.UK.png" group-title="UK", ITV 2
@@ -541,6 +554,7 @@ http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/18841
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/22077
 #EXTINF:-1 tvg-logo="1" group-title="UK",BBC CBEEBIES
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25095
+
 #EXTINF:-1 tvg-logo="1" group-title="UK",BBC scotland
 http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/25096
 #EXTINF:-1 tvg-logo="1" group-title="UK",bloombergh
