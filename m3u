@@ -63,7 +63,7 @@ http://tv2iptv.com:8000/live/Janel/janel123/11481.m3u8
 rtmp://82.212.74.3:1935/live/7412
 
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a/AGF-l7_F7KNy5080WtvRJMNCOJk9CZWpzV5Ri3ZU6Q=s900-c-k-c0xffffffff-no-rj-mo"group-title="الاخبار" ,Aljazeera 
-http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+https://live-hls-web-aja.getaj.net:443/AJA/02.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a/AGF-l7_F7KNy5080WtvRJMNCOJk9CZWpzV5Ri3ZU6Q=s900-c-k-c0xffffffff-no-rj-mo"group-title="الاخبار" ,Aljazeera 1
 https://players.brightcove.net/665001584001/SyN2noqa_default/index.html?videoId=5146642090001
 
