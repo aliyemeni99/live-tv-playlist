@@ -4,7 +4,7 @@ https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 
-#EXTINF:-1 tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/Al_Saudiya-1.jpg"group-title= KSA HD
+#EXTINF:-1 tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/Al_Saudiya-1.jpg"group-title="KSA",KSA 1 HD
 https://cllive.itworkscdn.net:443/ksa1live/token=nva=1585621939~dirs=1~hash=0fd4162a3225e77f24056/ksa1.smil/playlist_1080p.m3u8
 
 
