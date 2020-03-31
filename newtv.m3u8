@@ -61,6 +61,9 @@ http://api.new.livestream.com/accounts/12233888/events/3819374/live.m3u8
 #EXTINF:-1 tvg-logo="https://alsahwa-yemen.net/UploadControl/UploadImages_News/picture/2018/03/A3T_24_03_2018_02_58_14.jpg"group-title="القنوات اليمنيه",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
+rtmp://82.212.74.98:1935/live/7626
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lomKmt23ZZgSpApHin-4ywKZNBac8o6AMEFq8Ho7ujGs4IpbS6bxM694E-1mGgKWRQU=w300"group-title="القنوات اليمنيه",Al Ghad Al Mushreq
 rtmp://82.212.74.3:1935/live/7412
 
