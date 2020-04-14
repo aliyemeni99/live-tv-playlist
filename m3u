@@ -45,7 +45,7 @@ http://tv2iptv.com:8000/live/Janel/janel123/11729.m3u8
 http://82.212.74.99:8000/live/8173.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
-rtmp://82.212.74.98:1935/live/7626
+http://82.212.74.98:8000/live/7726.m3u8
 
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190256548499.png"group-title="القنوات اليمنيه",Alerth TV
 rtmp://82.212.74.2:1935/live/7207
