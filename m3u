@@ -32,6 +32,10 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist51a31vIB6q_8VVLFoJ0zThQdcgmv
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
 http://ok2.se:8000/634aF1URg8VuC1pN2/282cF1UjuSzoigwvg/5791
 
+
+#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD1
+http://38.99.146.37:7777/AlSaeeda_HD/AlSaeeda_High.m3u8?user=sgls540839&session=0000c8ae74a319d394067a40730a8b6ccd1b309da079fcfd140b148cb6ec0d91&hlsid=HTTP_ID_5&starttime=20200415T185104.311354
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
 https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
 
