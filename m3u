@@ -216,7 +216,7 @@ http://95.170.215.109/hls/CBC-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="قنوات عربيه",CBC Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Cbc_sofra_logo.png" group-title="قنوات عربيه",CBC Sofra
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
+http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/24.m3u8
 #EXTINF:-1 tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات عربيه", DMC
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/DMC-Drama-webtvonlive-com.jpg" group-title="قنوات عربيه", DMC Drama
