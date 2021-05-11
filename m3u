@@ -27,7 +27,7 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 http://teledunet.com:8080/live/azrotv/azrotv2021/10243.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png"group-title="القنوات اليمنيه",Yemen saudi HD
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist51a31vIB6q_8VVLFoJ0zThQdcgmvLsqy4OO4PgEuW-u5e_SsqEkDggg3tYrO-GWDytW56mUVq4DbfdN-ij_K84vmj28gZASXezlPPKGWLQkYnqPr7z_vyoZRBKOosShb7p44SjVmkJ0Qw16cAwAOM7K4y9nNBFOG0tI-1hSw_nPoquxB7V3jF_-B89RubxsVapcVITZfSWqof8AfoPpLc4yIqQbbPGqoq4Eyx3ZshMW_bOWnj9q4Z2HH8CWs4-nDQzk_3Wum8YjAlQb3td0mfOpHBuil1Wo7jv463jEeGnaQsZkMrgztQAhAvFTxviVbQowA_xfPogKjJhG0ak-iBWyCoMcfNHzKIZNWWqc-5abX1k0P7ef9QeU-LbxIYSEKA5jlWc1E6a2XDWtuDhUDEaDDjvyCNDJgu_uWT4fg.m3u8
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CosE3UkjT4vOGN7AcvWl7DsbMGHfCs2esvIf0FO5ZlpjTO6GM6vtPqF_gHrgnZ61z0jriiNyq_fOKg-ov74Xm0UJHL_r15XUhXt0jvhdkVAOh8copZQsReUCFUUAuXBhFqGTYsbvTD8aOEBGXDl0uHOtmb1-gWVKRMwJWWdl_isl5BWb3IxBIqEo3APQxkNIEEyE0IMST1i8xVFaa0gvZCSJ4Y8YZ7zMlTW_c_Ji-ccbHpOnmG6KCQA4_BlOVmD9RZBrspFEAoaxUJbhO9ogh0ljoJEm1zFBjndxnanXjrn3wIFpiqV1ifOtn7d1hWLLCZUkPapr04wKu2GpmnV9TurVVM_yQIQaukYBjwNfI85AisiAJ55KfsRqmIhz_jkSH8gYVl7CtsmPZuKAg-9_Y3bwBPKtvL2U6YohzI4GdCQ6rnKDcFvz6Y9q4ZdQHJrjwl3CTJEHFSSeHi3MkDq5Evyl9VWOJGd8Hx7IPbRP6XGLVouoQfdXRnq54x5PmTPRmJhROaH-xbnwKV8liMVftGWRooitDVOXJK_6nIK-BpCOh-9rC3rtyXJDqHuNjJrNX58Uf9w_lPZulJqBQfbpm4NHYpAAhzMlWK4fONFxcQrn5RrTY3fbOM_0KyzW7bP-dauiSYynR9u1hYYyGXfXDZVZpQ3LK2L3QfV6bJusmVmOzoEVqityDXAD2r-9ohIQyuMDusVpMQETKBjoqQsIlBoMR7z22wjih_SVKa29.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD
 http://teledunet.com:8080/live/azrotv/azrotv2021/10244.m3u8
@@ -71,6 +71,9 @@ rtmp://82.212.74.98:1935/live/7626
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lomKmt23ZZgSpApHin-4ywKZNBac8o6AMEFq8Ho7ujGs4IpbS6bxM694E-1mGgKWRQU=w300"group-title="القنوات اليمنيه",Al Ghad Al Mushreq
 rtmp://82.212.74.3:1935/live/7412
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngCl-KhDSvolZ3VRn3zcf4_Bogjy0P0oCr2Lbc0pQ=s900-c-k-c0x00ffffff-no-rj"group-title="القنوات اليمنيه",Sheba Tv
+http://teledunet.com:8080/live/azrotv/azrotv2021/1192.m3u8
 
 
 
