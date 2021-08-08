@@ -157,7 +157,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
                                                       قنوات عربيه
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/03/ACSszfErmfB73I20mP33XhYndwJUq24crTFiyLfkXAs800-mo-c-c0xffffffff-rj-k-no-1-1.jpeg" group-title="قنوات عربيه",Saudi 1 HD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+https://cllive.itworkscdn.net:443/ksa1live/token=nva=1628437511~dirs=1~hash=02789b4f770c4ec6798e9/ksa1.smil/ksa1_chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jrtv.gov.jo/templates/jrtv_home/images/logomain.png" group-title="قنوات عربيه",Jordan TV
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:0 tvg-logo="http://i5.satexpat.com/cha/jo/jordanSport-95x24.gif" group-title="قنوات رياضيه",Jordan Sports
