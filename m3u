@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",dads army 1
+http://69.63.68.20/filmntv/dads%20army/Dad's%20Army%20-%20S08E06%20The%20Face%20On%20The%20Poster-480p.mp4
+
+
 #EXTINF:-1 tvg-logo="https://www.lifecell.com.tr/images/icerik/tv/kanallar/quran.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 
