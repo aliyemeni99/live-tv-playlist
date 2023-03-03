@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",dads army 1
-http://69.63.68.20/filmntv/dads%20army/Dad's%20Army%20-%20S08E06%20The%20Face%20On%20The%20Poster-480p.mp4
-
-
 #EXTINF:-1 tvg-logo="https://www.lifecell.com.tr/images/icerik/tv/kanallar/quran.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 
@@ -28,7 +24,7 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 
                                                                   اليمنيه
 #EXTINF:-1 tvg-logo="https://www.yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png"group-title="القنوات اليمنيه",Yemen sanaa HQ
-https://gintna100.tulix.tv/gin_live/yementv/7814bee41fc53909fe1ee03b9beb44f3/61c26b3b/index.m3u8
+https://bozztv.com/inim03/live1/gin-yementv-in/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png"group-title="القنوات اليمنيه",Yemen saudi HD
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CosExNhssJWec0xRnMxkd0WqlhXxCzugWUVCprpNSdHJPh1gz-OR3EBHkDC6Q5EqHrmi8jVEo_oDgsPTxs-8tr2XyWxZBv9b5RGNMD5iCgF5uPEZ9XNCpEqqZLDiDIuuLwSFNZyKQBYiZ65ZYx7Vsvpf1Pju7GaSRR7xHww9mxHV2DiTVV77SrGhnEX2aQf6Ijq04B2DQNLsZbyb9NIBXvul9tNGovEiKAY8nLOealzdD62bPJ3Ab8XGtPsIpVhTsSIQgg0MF5t-7ylTH4GT9VZCr9nO-yfFA985WTnrtwcvI9slrzy69oI9iQ66G9ZnG9B2P-RnD4IUu8Ny6F4XnWtWIi2Rat0qovE0znYBTQ_p92OIw_kpictbzsM0bC5MiJFca_fCfYJP79Cn_aSsOwB9Sssbhgz6QjR79RUSKVe3wJp8m9uiTa4RFDoDkSlxL26ur0hsJbWYwsPfRbJZbbIVdvtl_XDzjmvA2qIjQGmXqOW0zW20Qk0uBwzL1VC0GBC8TPh0a6kApVd_7662Mya1XsqQMbaEBvfy2Ou4FzUrV4pY6NuI7Y0QeTcSe4s8bgnHuu2kx3NpeuVALDC2t8RzDzHERb_fEfSkNUb2U4SNogZ-EJ52vVgcbQz_E4L-e3Fi_IuXEqZfvCN47MskmbQydxP9v1ZEWd3q4EQ_-Z09L0wp5FCsGf6ZhKo9ixIQ5aqu3iXuO0CPLlBGnT86-RoMzy67SJGOl5gFH3wB.m3u8
@@ -37,14 +33,14 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CosExNhssJWec0xRnMxkd0WqlhX
 http://teledunet.com:8080/live/azrotv/azrotv2021/10244.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",Al-Saeedah HD1
-http://38.99.146.37:7777/AlSaeeda_HD/AlSaeeda_High.m3u8?user=sgls540839&session=0000c8ae74a319d394067a40730a8b6ccd1b309da079fcfd140b148cb6ec0d91&hlsid=HTTP_ID_5&starttime=20200415T185104.311354
+#EXTINF:-1 tvg-logo="http://www.yemenlng.com/ws/myfiles/arts/news/000151_1.jpg"group-title="القنوات اليمنيه",hadramot HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/964
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79_gOR_SuJxUlvUCYI3RYVdDxRvrWdhhLSt5w=s900-mo-c-c0xffffffff-rj-k-no"group-title="القنوات اليمنيه",Al masira HD
-https://svs.itworkscdn.net/almasiralive/almasira.smil/manifest.mpd
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/AlMasirah.jpg"group-title="القنوات اليمنيه",Almasirah Mubasher HD
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/chunklist.m3u8
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1122466245260075008/ARjnyTj7_400x400.png"group-title="القنوات اليمنيه",yemen today 
 https://video.yementdy.tv/live/yementoday/index.m3u8
@@ -53,16 +49,16 @@ https://video.yementdy.tv/live/yementoday/index.m3u8
 http://82.212.74.99:8000/live/8173.m3u8
 
 #EXTINF:-1 tvg-logo="https://almahriah.net/images/logo.png"group-title="القنوات اليمنيه",almahriah HD
-https://master.starmena-cloud.com/hls/almahriah.m3u8
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/961
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
-http://82.212.74.98:8000/live/7726.m3u8
+http://82.212.74.98:8000/live/hls/7726.m3u8
 
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190256548499.png"group-title="القنوات اليمنيه",Alerth TV
 rtmp://82.212.74.2:1935/live/7207
 
 #EXTINF:-1 tvg-logo="https://tvmany.com/logos/im80240"group-title="القنوات اليمنيه",Aden saudi HD
-https://master.starmena-cloud.com/hls/aden.m3u8
+http://82.212.74.5:8000/live/7728.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.belqees.tv/images/logo-footer.png"group-title="القنوات اليمنيه",BELQEES HD
 https://svs.itworkscdn.net:443/itwlive/itw3.smil/itwpublish/itw3_720p/chunks.m3u8
@@ -74,7 +70,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 rtmp://82.212.74.98:1935/live/7626
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lomKmt23ZZgSpApHin-4ywKZNBac8o6AMEFq8Ho7ujGs4IpbS6bxM694E-1mGgKWRQU=w300"group-title="القنوات اليمنيه",Al Ghad Al Mushreq
-rtmp://82.212.74.3:1935/live/7412
+http://82.212.74.3:8000/live/7512.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngCl-KhDSvolZ3VRn3zcf4_Bogjy0P0oCr2Lbc0pQ=s900-c-k-c0x00ffffff-no-rj"group-title="القنوات اليمنيه",Sheba Tv
 http://teledunet.com:8080/live/azrotv/azrotv2021/1192.m3u8
