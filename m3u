@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
 http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",sunnah 
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1677871484~dirs=1~hash=08da7c85e212c10116c41/ksasunna.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",iqraa 
+https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lifecell.com.tr/images/icerik/tv/kanallar/quran.png" group-title="القنوات الاسلاميه", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 
@@ -78,6 +84,31 @@ http://teledunet.com:8080/live/azrotv/azrotv2021/1192.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/72eBFQBAvQpWUyyoS-prtHm72Zdeg6iqLHKkBMk_LttVdQ64xK6xbe0yLfQPm6Ekh99SGSggPw-mSWZribfbQq2cbh7kQDYpe0P7_1ZoIb4L3Tm0YE78mqQvvbRx9a6T97LY0xBoqeZtUhD0mFcgHMPNOKmWoPl2QeQC03ZWaWD-fdJjz-AJyxHMZxNG8eKMPr9j-nykgapsDXDJ7GcvVYgOT7CQSemIDDci3X_7cLgTFAZduojfIziX5rwprm1avaislh1p9EY2O9d7gpkoOpeFYMJ5g4OW5hY0h1UKGl8ySZmYaHguN3ri1yV1862Mz2f3i0CAQvrBcbbrY4BlkrXKXr2TYEcDvbSEDRUW8MnNl46g24bLhWHGUUbJy4Cbpg85Iva3mC10H_qctToXXfDsRXml383vG6Nu-Nw0ovQ21dQ28bI"group-title="القنوات اليمنيه",yemen_doc
 http://teledunet.com:8080/live/azrotv/azrotv2021/1190.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",Saudi-1
+https://cllive.itworkscdn.net/ksa1live/token=nva=1677864045~dirs=1~hash=0216181f9346fc6bfbd8d/ksa1.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",Kuwait 1
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1677856848&e=1677943248&cf=1677943248&h=a02de757d3ae6d2c54c4a28ad5a964d3
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",Qatar 1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",samadubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",abudhabi 1
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",Oman 
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",MBC 1
+https://stonecors.herokuapp.com/https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCmasr.ae.png" group-title="قنوات عربيه",MBC masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCiraq.ae.png" group-title="قنوات عربيه",MBC Iraq 
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
                                                               الاخبار
 
