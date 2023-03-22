@@ -102,7 +102,7 @@ http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t6
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",MBC 1
-https://stonecors.herokuapp.com/https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCmasr.ae.png" group-title="قنوات عربيه",MBC masr
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
