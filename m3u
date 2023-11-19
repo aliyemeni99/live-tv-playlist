@@ -1,7 +1,7 @@
   			
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
-http://m.live.net.sa:1935/live/quran/oui9mobi.m3u8
+https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",sunnah 
 https://cllive.itworkscdn.net/ksasunnalive/token=nva=1677871484~dirs=1~hash=08da7c85e212c10116c41/ksasunna.smil/playlist_dvr.m3u8
@@ -51,13 +51,13 @@ https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1122466245260075008/ARjnyTj7_400x400.png"group-title="القنوات اليمنيه",yemen today 
 https://video.yementdy.tv/live/yementoday/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1085617598455259136/oDmJp_QK_400x400.jpg"group-title="القنوات اليمنيه",almahrah tv HD
-http://82.212.74.99:8000/live/8173.m3u8
+#EXTINF:-1 tvg-logo="https://almahriah.net/images/logo.png"group-title="القنوات اليمنيه",almahrah tv HD
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 
 #EXTINF:-1 tvg-logo="https://almahriah.net/images/logo.png"group-title="القنوات اليمنيه",almahriah HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/961
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79POdOzLsfOE8cP1T6ch1y6vy6XtyPJHdKGKg=s900-c-k-c0xffffffff-no-rj-mo"group-title="القنوات اليمنيه",Suhail tv 
+#EXTINF:-1 tvg-logo="https://suhail.net/themes/default/images/arabic/logo.jpg"group-title="القنوات اليمنيه",Suhail tv 
 http://82.212.74.98:8000/live/hls/7726.m3u8
 
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190256548499.png"group-title="القنوات اليمنيه",Alerth TV
@@ -100,6 +100,32 @@ http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t6
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",Oman 
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.ae" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" ,MBC 1 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8 
+
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" ,MBC 2 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" ,MBC 3 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+ #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" ,MBC 4 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+ #EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" ,MBC 5 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8 
+
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" ,MBC ACTION #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" ,MBC MAX #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" ,MBC DRAMA https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+
+ #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" ,MBC DRAMA+ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+ #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" ,MBC BOLLYWOOD https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="" ,MBC VARIETY #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" ,MBC IRAQ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8 
+
+#EXTINF:-1 tvg-id="MBCMaser.ae" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" ,MBC MASR 1 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" ,MBC MASR 2 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/dam/jcr:07efc908-da99-47d5-8c1f-db67122cb9d3/wanasa.png" ,WANASAH https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/dam/jcr:0611b73a-741c-4a25-831b-7ea27be642da/mbc-fm1.png" ,MBC FM https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/dam/jcr:777442d8-c733-49d1-9e3b-c25720cb471d/Panorama-FM-Logo2.png" ,PANORAMA FM https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
