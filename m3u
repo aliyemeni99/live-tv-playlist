@@ -360,7 +360,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="قنوات عربيه",MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png" group-title="قنوات عربيه",MBC Drama
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
