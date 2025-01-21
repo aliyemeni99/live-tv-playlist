@@ -1,7 +1,7 @@
   			
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg"group-title="القنوات الاسلاميه",Saudi Quran HD
-https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_source/hdntl=exp=1732454837~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=1cc329a335abfe8cb112c49b1b494a25cd3441b94efcf8340dbc5bbede6aadf9/chunks_dvr.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="قنوات عربيه",sunnah 
 https://cllive.itworkscdn.net/ksasunnalive/token=nva=1677871484~dirs=1~hash=08da7c85e212c10116c41/ksasunna.smil/playlist_dvr.m3u8
